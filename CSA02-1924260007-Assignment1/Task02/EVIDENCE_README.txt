@@ -1,0 +1,1 @@
+After compiling and running this task on your own computer, save a genuine terminal screenshot here as output.png. Record actual output and tests in REPORT_TEMPLATE.md. Do not submit this note as a screenshot.
